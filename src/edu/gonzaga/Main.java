@@ -1,3 +1,4 @@
+//Sean was here
 package edu.gonzaga;
 
 class Adder {
@@ -16,7 +17,7 @@ public class Main {
     public static void main(String args[]) {
         System.out.println("Starting app");
         Adder adder = new Adder(10, 20);
-
+	System.out.println("God I have a headache");
         System.out.println("App finished.");
     }
 }
